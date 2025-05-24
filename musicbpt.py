@@ -9,10 +9,10 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
 # === CONFIG ===
-SPOTIFY_CLIENT_ID = '96f492c2d7914f568d952234b2878e9a'
-SPOTIFY_CLIENT_SECRET = 'd71a76bda9dc47bba60eb54674d78797'
+SPOTIFY_CLIENT_ID = 'id'
+SPOTIFY_CLIENT_SECRET = 'secret'
 REDIRECT_URI = 'http://127.0.0.1:8888/callback'
-DISCORD_BOT_TOKEN = 'MTM3NTcwNDY3MzcyMTI1ODA3NA.GK5OF5.lanmPb_dKKKP7OTWCmDoLW9ODYWEFTIkeRtUKQ'
+DISCORD_BOT_TOKEN = 'your-bot-token'
 SPOTIFY_SCOPE = 'user-read-private'
 
 # === GLOBAL ===
